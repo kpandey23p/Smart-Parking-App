@@ -1,0 +1,42 @@
+# Smart Parking System - Backend Dependencies
+# Optimized for student environments with minimal resource usage
+
+# Core Framework
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+Werkzeug==2.3.7
+
+# Database
+SQLAlchemy==2.0.23
+
+# Computer Vision & ML (Lightweight versions)
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+
+# YOLO for future real CV implementation (optional)
+ultralytics==8.0.20
+
+# AI/ML Libraries
+scikit-learn==1.3.2
+pandas==2.0.3
+
+# Optional AI Libraries (uncomment if you want advanced AI features)
+# langchain==0.0.354
+# langchain-openai==0.0.2
+# openai==1.3.7
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Development Tools
+pytest==7.4.3
+pytest-flask==1.3.0
+black==23.11.0
+flake8==6.1.0
+
+# Production Server (optional)
+gunicorn==21.2.0
