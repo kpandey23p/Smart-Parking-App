@@ -97,7 +97,7 @@ parking system/
 The interactive map shows real-time parking availability across the city with location markers indicating parking spots and their current status.
 
 ### Parking Grid Dashboard
-![Parking Grid](screenshots/parking-grid.png)
+![Parking Grid](screenshots/image.png)
 
 The parking grid provides a quick overview of all parking spots with color-coded status indicators:
 - 🟢 Green: Available spots
