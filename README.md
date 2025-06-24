@@ -89,6 +89,22 @@ parking system/
 - **Predictive Analytics**: Occupancy prediction
 - **Multi-Agent System**: Distributed AI architecture
 
+## Screenshots
+
+### City Parking Map
+![City Parking Map](screenshots/parking-map.png)
+
+The interactive map shows real-time parking availability across the city with location markers indicating parking spots and their current status.
+
+### Parking Grid Dashboard
+![Parking Grid](screenshots/parking-grid.png)
+
+The parking grid provides a quick overview of all parking spots with color-coded status indicators:
+- 🟢 Green: Available spots
+- 🔴 Red: Occupied spots  
+- 🟡 Yellow: Reserved spots
+- 🔵 Blue: Special categories (UC, BD, RZ, TP, SC, AT spots)
+
 ## API Endpoints
 
 - `GET /` - Web dashboard
